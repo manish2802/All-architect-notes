@@ -52,9 +52,9 @@ Project:
 
 RoadMap
 
-syllabus
+syllabus + Enviorment Stack
 Cache (Point To be remeber as project useful)
-Topic (UI/Javascript/Angular-------Java/Srpring/SringBoot/MicroService/JPA----------Oracle/MongoDB) + (GIT----MAVEN-----Jenkin------NEXUS/JFROG-------JACCO-----SONARQUBE-------Ansible/Chief------DOCKER--------KUBERNET---------Monitor) + Business (Documentaion + JIRA + Agile)
+Topic (UI/Javascript/Angular-------Java/Srpring/SringBoot/MicroService/JPA----------Oracle/MongoDB) + (GIT----MAVEN-----Jenkin(CI/CD)------NEXUS/JFROG-------JACCO-----SONARQUBE-------Ansible/Chief------DOCKER--------KUBERNET---------Monitor) + Business (Documentaion + JIRA + Agile)
 (Cloud Useful)
 (OS Fundamental)
 Final
