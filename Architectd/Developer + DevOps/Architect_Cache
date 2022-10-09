@@ -8,5 +8,27 @@ Devloper:
 Devops:
 ========
 
+  
+  AWS:
+  ====
+
+    Project: 
+
+    1) We have created our custom VPC i.e webshopify-vpc 10.0.0.0/16
+    2) We have created public subnet and private subnet in region-1 i.e. ap-south-1a
+    3) We have created public subnet and private subnet in regino-2 i.e. ap-south-1b
+
+     We have taken the RDS in private subnet and application in public subnet and tested the connectivity from application to RDS in private subnet.
+
+     We have taken the web-server i.e. apache2 in private subnets and attached the NAT Gateway to the private subnet,Access the private subnet machine from public subnet machine and configured the apache2 web server.
+
+
+     We have Created the ALB and created the two machine in public subnet installed with apache2 server and accessed teh apache2 server via ALB.
+
+     We have created the ALB and created the two machines in private subnet, installed with apache2 server and accessed the apache2 server via ALB
+
+     We have created the NLB and created the two machines in public subnet,installed with apache2 server and accessed the apache2 server via NLB.
+
+     we have created the NLB and created the two machines in private subnet, installed with apache2 server and accessed the apache2 server via ALB.
 
 
