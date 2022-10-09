@@ -31,4 +31,16 @@ Devops:
 
      we have created the NLB and created the two machines in private subnet, installed with apache2 server and accessed the apache2 server via ALB.
 
+     Route53:
+
+     purchesed a domain called webshopify.
+  
+     created hosted zone, it will gives us the records NS and SOA.
+     Let configure the Route53 NS in godday.
+
+     AWS Cirtificate Manager and get the public cirtificate.Configure the domain at route 53 for the LB with the https. Test the application now on the domain not LB DNS lide https://webshopify.com
+
+
+    
+
 
