@@ -47,8 +47,16 @@ Devops:
      =================
 
      Technology Project(JAVA or Angular or AWS or DevOps)
-     Developer Project: UI + Server + DB
+       --> Basice CURD Operation
+       --> Angualar
+       --> sample AWS project
+       --> Sample integraion between tools
+
+     Developer Project: UI + Server + DB + Docker
+     --> More Integration
+
      DevOps : OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
+     ---> More intergration 
      Architect : Developer(UI + Server + DB) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
 
 
