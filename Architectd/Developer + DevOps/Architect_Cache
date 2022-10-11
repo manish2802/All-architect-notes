@@ -41,6 +41,20 @@ Devops:
      AWS Cirtificate Manager and get the public cirtificate.Configure the domain at route 53 for the LB with the https. Test the application now on the domain not LB DNS lide https://webshopify.com
 
 
+
+
+     Project Catagroy:
+     =================
+
+     Technology Project(JAVA or Angular or AWS or DevOps)
+     Developer Project: UI + Server + DB
+     DevOps : OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
+     Architect : Developer(UI + Server + DB) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
+
+
+     RealTime: INFRA + Developer(UI + Server + DB) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA) + Mointiring + Business Process(Documentation+JIRA+Agile)
+
+
     
 
 
