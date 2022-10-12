@@ -80,9 +80,10 @@ Devops:
      Architect : Developer(UI + Server + DB) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
 
      
-     RealTime Developer: INFRA + Developer(UI + Server + DB + MS + Kafka + Swagger + DockerB) + Basic AWS + Basic Linux
+     RealTime Developer: INFRA + Developer(UI + Server + DB + MS + Kafka + Swagger + DockerB) + Basic AWS + Basic Linux +
+                          Mointiring + Business Process(Documentation+JIRA+Agile)
      
-     ReadTimer DevOps:  INFRA +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA) + Mointiring + Business Process(Documentation+JIRA+Agile)
+     ReadTimer DevOps:  INFRA +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA) + Mointiring + Business Process(Documentation+JIRA+Agile) + Cloud depth + OS Depth
      
      RealTime Archtiect : INFRA + Developer(UI + Server + DB) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA) + Mointiring + Business Process(Documentation+JIRA+Agile)
 
