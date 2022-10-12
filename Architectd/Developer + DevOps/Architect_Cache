@@ -1,6 +1,25 @@
 
 Devloper:
 =========
+UI:
+ HTML:
+ 
+ Angular:
+
+ 
+TECHNOLOGY AND FRAMWORK:
+========================
+JAVA:
+
+
+DS:
+
+
+SPRING:
+
+SRING BOOT:
+
+MS:
 
 
 
@@ -48,14 +67,14 @@ Devops:
 
      Technology Project(JAVA or Angular or AWS or DevOps)
        --> Basice CURD Operation
-       --> Angualar
+       --> Angular
        --> sample AWS project
        --> Sample integraion between tools
 
-     Developer Project: UI + Server + DB + Docker
+     Developer Project: UI + Server + DB + MS + Kafka + Swagger + Docker 
      --> More Integration
 
-     DevOps : OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
+     DevOps : OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROG/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
      ---> More intergration 
      Architect : Developer(UI + Server + DB) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
 
