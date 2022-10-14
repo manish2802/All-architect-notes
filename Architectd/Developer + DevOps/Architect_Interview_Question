@@ -1,6 +1,32 @@
 Toatl Count: 
 
-Docker: 
+JAVA: JAVA8
+FW: Spring(SP),SpringBoot,MS
+UI : Angular(ANG)
+
+
+FW - SP :  1) What is spring core annotation?
+=> @Component("id")  ==  <bean id="id" class="Test">  : register into the container Directly
+=> @Configuration  
+    
+    @Configuration                                   <bean....>                                              
+     public class CollegeConfig{                  == <bean id="collegeBean or colBean" class="College">
+       @Bean or  @Bean(colBean)
+       public College collegeBean(){                 </bean>
+       return new College();
+       }
+    }
+ =>  @ComponentScan
+   
+     @Configuration 
+     @ComponentScan                                  <bean....>                                              
+     public class CollegeConfig{                   == <bean id="collegeBean or colBean" class="College">
+       @Bean or  @Bean(colBean)
+       public College collegeBean(){                 </bean>
+        return new College();
+       }
+     }
+
 
 
 
