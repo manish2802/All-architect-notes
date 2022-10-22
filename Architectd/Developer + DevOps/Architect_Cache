@@ -78,6 +78,10 @@ Devops:
      ---> More intergration 
      
      Architect : Developer(UI + Server + DB+ MS + Kafka + Swagger + Docker) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
+      
+      --> One Complex Project for our self where we break the module for explnation
+          in Project and Architect sceniero.
+
 
      
      RealTime Developer: INFRA(KEEP IN MIND) + Developer(UI + Server + DB + MS + Kafka + Swagger + DockerB) + Basic AWS + Basic Linux +
