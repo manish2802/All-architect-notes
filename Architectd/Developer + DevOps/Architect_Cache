@@ -63,7 +63,7 @@ Devops:
 
 
      All Project Catagroy:
-     =================
+     =======================
 
      Technology Project(JAVA or Angular or AWS or DevOps)
        --> Basic CURD Operation
@@ -78,9 +78,11 @@ Devops:
      ---> More intergration 
      
      Architect : Developer(UI + Server + DB+ MS + Kafka + Swagger + Docker) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
+
+     ---> Developer Integration + DevOps Integration
     
-      --> One Complex Project for our self where we break the module for explnation
-          in Project and Architect sceniero.
+      [--> One Complex Project for our self where we break the module for explnation
+          in Project and Architect sceniero.]
 
 
      
