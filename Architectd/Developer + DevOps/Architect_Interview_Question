@@ -36,6 +36,11 @@ Promises - They emit a single value at a time. They execute immediately after cr
 
 Observables - They are only executed when subscribed to them using the subscribe() method. They emit multiple values over a period of time. They help perform operations like forEach, filter, and retry, among others. They deliver errors to the subscribers. When the unsubscribe() method is called, the listener stops receiving further values.
 
+UI - ANG : 3) What is Eager and Lazy loading? 
+Eager loading is the default module-loading strategy. Feature modules under Eager loading are loaded before the application starts. This is typically used for small size applications.
+
+Lazy loading dynamically loads the feature modules when there's a demand. This makes the application faster. It is used for bigger applications where all the modules are not required at the start of the application. 
+
 
 
 Docker:
