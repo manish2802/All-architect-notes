@@ -75,7 +75,7 @@ Devops:
      --> More Integration[(Ang + Spring Rest + DB),(Ang + MS + DB),(Ang(Docker) + MS(Docker) + DB(Docker)),(Ang(minikube) + MS(minikube) + DB(minikube))]
 
      DevOps : OS + AWS + CI/CD(GIT/MAVAN/SONARQUBE/JACCO/JUNIT/JFROG/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
-     ---> More intergration [AWS:[(VPC,IAM,Route53,EC2,LB)],DevOps:[(GIT,Jenkins,Tomcat),(GIT,Jenkins(Master/slave),Tomcat),(Linux,AWS,GIT,Jenkins(Master/slave),Tomcat(Docker)),(Linux,AWS,GIT,Jenkins(Master/slave),Tomcat(Docker),DB(Docker)),(Linux,AWS,GIT,Jenkins(Master/slave),Tomcat(k8),DB(k8)),(Linux,AWS,GIT,Jenkins(Master/slave),Ansible(M/L),Tomcat(Docker),DB(Docker)),(Linux,AWS,GIT,Jenkins(Master/slave),Ansible(M/L),Tomcat(k8),DB(k8)),(Linux,AWS,GIT,Jenkins(M/S),JACCO,JUNIT,JFROG,SonarQube,Ansible,Docker,K8(M/S)(Tomcat),ELK,Grafana)]]
+     ---> More intergration [AWS:[(VPC{subnet(private/public),Routing,IGW},SG,IAM,Route53,EC2,LB,RDS,S3)],DevOps:[(GIT,Jenkins,Tomcat),(GIT,Jenkins(Master/slave),Tomcat),(Linux,AWS,GIT,Jenkins(Master/slave),Tomcat(Docker)),(Linux,AWS,GIT,Jenkins(Master/slave),Tomcat(Docker),DB(Docker)),(Linux,AWS,GIT,Jenkins(Master/slave),Tomcat(k8),DB(k8)),(Linux,AWS,GIT,Jenkins(Master/slave),Ansible(M/L),Tomcat(Docker),DB(Docker)),(Linux,AWS,GIT,Jenkins(Master/slave),Ansible(M/L),Tomcat(k8),DB(k8)),(Linux,AWS,GIT,Jenkins(M/S),JACCO,JUNIT,JFROG,SonarQube,Ansible,Docker,K8(M/S)(Tomcat),ELK,Grafana)]]
      
      Architect : Developer(UI + Server + DB+ MS + Kafka + Swagger + Docker) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA)
 
