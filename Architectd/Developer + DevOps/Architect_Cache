@@ -87,15 +87,15 @@ Devops:
 
      
      RealTime Developer: INFRA(KEEP IN MIND) + Developer(UI + Server + DB + MS + Kafka + Swagger + DockerB) + Basic AWS + Basic Linux +
-                          Mointiring + Business Process(Documentation+JIRA+Agile)
+                          Mointiring + Business Process(Documentation+JIRA+Agile) + Tools
      --> Some intergration project
      --> Then RealTime                     
      
-     ReadTimer DevOps:  INFRA (KEEP IN MIND) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA) + Mointiring + Business Process(Documentation+JIRA+Agile) + Cloud depth + OS Depth
+     RealTime DevOps:  INFRA (KEEP IN MIND) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA) + Mointiring + Business Process(Documentation+JIRA+Agile) + Cloud depth + OS Depth + + Tools
      --> Some intergration project
      --> Then RealTime     
      
-     RealTime Archtiect : INFRA + Developer(UI + Server + DB) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA) + Mointiring + Business Process(Documentation+JIRA+Agile)
+     RealTime Archtiect : INFRA + Developer(UI + Server + DB) +  DevOps (OS + AWS + CI/CD(GIT/SONARQUBE/JACCO/JUNIT/JFROGGR/JENKINS/ANSIBLE/DOCKER/KUBERNATE/ELK/GAFANA) + Mointiring + Business Process(Documentation+JIRA+Agile) + + Tools
      --> Some intergration project
      --> Then RealTime     
 
