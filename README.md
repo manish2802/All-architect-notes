@@ -8,5 +8,6 @@
 ref
 ++++
 
-
+https://stackblitz.com/edit/all-notes
 https://stackblitz.com/edit/angular-all-cache
+https://stackblitz.com/edit/angular-shopping-app-1
