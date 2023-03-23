@@ -7,6 +7,7 @@
 +++++
 ref
 ++++
+https://stackblitz.com/edit/javascript-concept
 
 https://stackblitz.com/edit/all-notes
 https://stackblitz.com/edit/angular-all-cache
