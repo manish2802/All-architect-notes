@@ -29,6 +29,7 @@ MS5: Security
 ------------------------------------------
 Planning
 RoadMap(syllabus)
+Details
 Integration Project
 Interview Prepration and Resume Building
 ------------------------------------------
@@ -108,53 +109,15 @@ Interview Prepration and Resume Building
 
          
        
+YAML
 
+DockerFile
+Jenkins File
+Ansible play book
+Deployment
+Service file
 
-
-
-        
-
-
-
-Chapter-1 : Web development introduction
-
-Chapter-2 : Single Page Applications
-
-Chapter-3 : Angular Introduction
-
-Chapter-4 : Angular Architecture
-
-Chapter-5 : Type Script Introduction 
-
-Chapter-6 : Environment Setup
-
-Chapter-7 : Variables & Data Types
-
-Chapter-8 : Functions
-
-Chapter-9 : OOPS Concepts
-
-Chapter-10 : Interfaces
-
-Chapter-11 : Import and Export
-
-Chapter-12 : Angular Setup
-
-Chapter-13 : Components
-
-Chapter-14 : Templates
-
-Chapter-15 : Databindings
-
-Chapter-16 : Services
-
-Chapter-17 : Http Client & Api Calls
-
-Chapter-18 : Forms & validations
-
-Chapter-19 : Routing
-
-Chapter-20 : Mini Project Development
+Terraform
 
 
 
