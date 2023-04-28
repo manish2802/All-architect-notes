@@ -123,6 +123,38 @@ Terraform
 
 
 
+++++++++++++++++++++++++++
+Microservices Deployment:
+++++++++++++++++++++++++++
+
+
+MicroServices principle
+Micorservices Design pattern
+MicroServices Architecture
+
+MS1:OOPS,Solid,Design Pattern,Archtitecure
+MS2:OOPS,Solid,Desing Pattern,Architecure
+...
+...
+MSn:OOPS,Solid,Desing Pattern,Architecure
+
+Api gatway(LBS,Roting,Caching,Authentication)
+ConfigServer
+Registry Server
+
+Communication: Rest/Kafka
+Fault tolerance
+
+ELK
+
+++++++++++++++
+MS Deployment:
+++++++++++++++
+
+EC2
+ECS
+Fargate
+Lamda
 
       
           
